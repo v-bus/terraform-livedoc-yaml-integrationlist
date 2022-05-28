@@ -1,0 +1,8 @@
+.terraform
+*log
+*tfvars
+*tfstate*
+*hcl
+integration_list.txt
+yq_file_validate.sh
+ld_file_validate.sh
